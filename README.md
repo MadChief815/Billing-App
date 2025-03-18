@@ -28,9 +28,9 @@ Follow these steps to set up the project locally:
 git clone https://github.com/MadChief815/Billing-App.git
 ```
 
-### 2️⃣ Navigate to the Project Directory
+### 2️⃣ Create a New Project and Copy The Codes.
 ```bash
-cd Billing-App
+npx @react-native-community/cli init project
 ```
 
 ### 3️⃣ Install Dependencies
