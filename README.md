@@ -49,6 +49,8 @@ cd ..
 ```bash
 npx react-native run-android
 ```
+🔧 **I removed the logos. Please add your own to the missing spots!** 🖼️ 
+
 🎉 **You're now ready to run the app!** 🚀✨
 
 **⚡ If you encounter any issues, feel free to reach out for support.**
